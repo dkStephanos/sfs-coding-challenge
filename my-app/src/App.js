@@ -1,8 +1,8 @@
-import Navbar from './Navbar';
-import Home from './Home';
-import Create from './Create';
-import BlogDetails from './BlogDetails';
-import NotFound from './NotFound';
+import Navbar from './components/navBar';
+import Home from './components/home';
+import Create from './components/create';
+import BlogDetails from './components/blogDetails';
+import NotFound from './components/notFound';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
