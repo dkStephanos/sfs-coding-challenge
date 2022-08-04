@@ -1,13 +1,13 @@
-import Navbar from './components/navBar';
-import Home from './components/home';
-import Create from './components/create';
-import BlogDetails from './components/blogDetails';
-import NotFound from './components/notFound';
+import Navbar from './navBar';
+import Home from './home';
+import Create from './create';
+import BlogDetails from './blogDetails';
+import NotFound from './notFound';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
 	return (
-		<Router>
+		<BrowserRouter>
 			<div className='App'>
 				<Navbar />
 				<div className='content'>
@@ -19,7 +19,7 @@ function App() {
 					</Routes>
 				</div>
 			</div>
-		</Router>
+		</BrowserRouter>
 	);
 }
 

@@ -1,10 +1,10 @@
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useHistory } from 'react-router-dom';
 import useFetch from '../hooks/useFetch';
 
 const BlogDetails = () => {
 	const { id } = useParams();
 	const { data: blog, error, isPending } = useFetch('http://127.0.0.1:8000/blogs/' + id);
-	const navigate = useNavigate();
+	const navigate = useHistory();
 
 	const handleClick = () => {
 		fetch('http://127.0.0.1:8000/blogs/' + blog.id, {
