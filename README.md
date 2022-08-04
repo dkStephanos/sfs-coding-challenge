@@ -1,4 +1,4 @@
-# sfs-coding-challenge - Django, Part 1
+# sfs-coding-challenge - Django, Part 2
 
 For this excercise, you will find a partially initialized django application under the directory: `django/mysite/myapp`. 
 
