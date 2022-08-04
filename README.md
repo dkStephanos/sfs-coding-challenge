@@ -5,4 +5,3 @@ This repo is divided into different branches to test skills in various levels of
 Test Modules:
   - react
   - django
-  - architecture
