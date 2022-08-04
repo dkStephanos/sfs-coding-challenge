@@ -1,8 +1,3 @@
 # sfs-coding-challenge
 
-This repo is divided into different branches to test skills in various levels of a full-stack application. You may complete the assignments in any order you'd like, and are free to use any resources available online. Begin by forking this repo into your github account. In order to start one of the test modules, simply navigate to one of the below listed branches, and follow the directions contained in that README.
-
-Test Modules:
-  - react
-  - django
-  - architecture
+For this excercise, you will find a fully built blog app in modern React, under the directory: my-app. Begin by following readme instructions inside that directory to install dependencies and start the react server. Once the application has started, it will open a browser, and you will see the first in a series of errors. To complete this assignment, identify and resolve all of the bugs present until the blog app is functional. Commit your work along the way, and when you are finished, proceed to one of the other modules or contact the proctor to complete the assesment.
