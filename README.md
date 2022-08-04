@@ -14,4 +14,4 @@ For the first view, load this data using pandas, perform cleansing methodologies
 
 For the second view, capitalize upon the clean dataframe you created for the first view, and deliver a dictionary containing summary statistics for the dataframe, such as average income, min/max tax, etc as you see fit, and make it available at the url `api/income_stats`.
 
-Once you are satisfied with your json deliverables, and they can be accessed via browser, you have completed this task, and may contact the proctor for next steps.
+Commit your work as you go and once you are satisfied with your json deliverables, and they can be accessed via browser, you may contact the proctor to complete the assesment.
