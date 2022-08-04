@@ -1,3 +1,5 @@
+# sfs-coding-challenge - Django, Part 1
+
 For this excercise, you will find a partially initialized django application under the directory: `django/mysite/myapp`. 
 
 First, navigate within the django folder where a python venv has been defined. Use the activate script in the Scripts folder to enter the env, and then install the requirements.txt in that location to install the necessary dependencies.
