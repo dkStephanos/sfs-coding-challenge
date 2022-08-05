@@ -2,3 +2,4 @@
 *.sqlite3
 *.pyc
 site-packages/
+django/
